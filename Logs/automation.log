@@ -1,0 +1,985 @@
+07/04/2024 09 : 04 : 00 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 04 : 00 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 04 : 00 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 04 : 00 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 04 : 00 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 04 : 03 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 04 : 06 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 04 : 06 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 04 : 06 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 04 : 06 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 04 : 06 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 04 : 08 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 04 : 10 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 04 : 10 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 04 : 18 AM : INFO :Passed
+07/04/2024 09 : 04 : 18 AM : INFO :Passed
+07/04/2024 09 : 04 : 18 AM : INFO :Passed
+07/04/2024 09 : 04 : 18 AM : INFO :Passed
+07/04/2024 09 : 04 : 18 AM : INFO :Passed
+07/04/2024 09 : 04 : 36 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 04 : 36 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 04 : 36 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 04 : 36 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 04 : 36 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 04 : 36 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 04 : 36 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 04 : 38 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 04 : 38 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 04 : 38 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 04 : 38 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 04 : 38 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 04 : 41 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 04 : 45 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 04 : 45 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 04 : 45 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 04 : 45 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 04 : 45 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 04 : 51 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 04 : 51 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 04 : 51 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 04 : 51 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 04 : 51 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 04 : 53 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 04 : 53 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 04 : 53 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 04 : 53 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 04 : 53 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 04 : 56 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 05 : 01 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 05 : 01 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 05 : 01 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 05 : 01 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 05 : 01 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 05 : 06 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 05 : 06 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 05 : 06 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 05 : 06 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 05 : 06 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 05 : 08 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 05 : 09 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 05 : 09 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 05 : 09 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 05 : 09 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 05 : 09 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 05 : 11 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 05 : 14 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 05 : 14 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 05 : 14 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 05 : 14 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 05 : 14 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 37 : 21 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 37 : 21 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 37 : 21 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 37 : 21 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 37 : 21 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 37 : 24 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 37 : 27 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 37 : 27 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 37 : 27 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 37 : 27 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 37 : 27 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 37 : 29 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 37 : 30 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 37 : 32 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 37 : 32 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 37 : 40 AM : INFO :Passed
+07/04/2024 09 : 37 : 40 AM : INFO :Passed
+07/04/2024 09 : 37 : 40 AM : INFO :Passed
+07/04/2024 09 : 37 : 40 AM : INFO :Passed
+07/04/2024 09 : 37 : 40 AM : INFO :Passed
+07/04/2024 09 : 37 : 58 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 37 : 58 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 37 : 58 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 37 : 58 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 37 : 58 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 37 : 58 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 37 : 58 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 38 : 00 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 38 : 00 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 38 : 00 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 38 : 00 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 38 : 00 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 38 : 03 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 38 : 07 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 38 : 07 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 38 : 07 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 38 : 07 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 38 : 07 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 38 : 13 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 38 : 13 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 38 : 13 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 38 : 13 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 38 : 13 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 38 : 15 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 38 : 15 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 38 : 15 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 38 : 15 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 38 : 15 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 38 : 19 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 38 : 24 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 38 : 24 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 38 : 24 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 38 : 24 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 38 : 24 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 38 : 30 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 38 : 30 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 38 : 30 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 38 : 30 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 38 : 30 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 38 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 38 : 35 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 38 : 38 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 38 : 38 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 38 : 38 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 38 : 38 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 38 : 38 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 42 : 30 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 42 : 30 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 42 : 30 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 42 : 30 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 42 : 30 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 42 : 30 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 42 : 31 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 42 : 31 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 42 : 31 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 42 : 31 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 42 : 31 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 42 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 42 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 42 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 42 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 42 : 33 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 42 : 35 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 42 : 35 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 42 : 36 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 36 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 37 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 42 : 37 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 42 : 39 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 42 : 39 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 42 : 39 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 42 : 39 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 42 : 39 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 42 : 40 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 40 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 40 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 40 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 40 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 42 : 40 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 42 : 40 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 42 : 40 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 42 : 40 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 42 : 40 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Saving customer info **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer validation started **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Add customer test passed **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 42 : 42 AM : INFO :********** Ending Home Page Title Test **********
+07/04/2024 09 : 42 : 44 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 44 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 42 : 47 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 42 : 47 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 42 : 47 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 42 : 47 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 42 : 47 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 42 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 42 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 42 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 42 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 42 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 42 : 52 AM : INFO :Passed
+07/04/2024 09 : 42 : 52 AM : INFO :Passed
+07/04/2024 09 : 42 : 52 AM : INFO :Passed
+07/04/2024 09 : 42 : 52 AM : INFO :Passed
+07/04/2024 09 : 42 : 52 AM : INFO :Passed
+07/04/2024 09 : 42 : 53 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 42 : 53 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 42 : 58 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 42 : 58 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 42 : 58 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 42 : 58 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 42 : 58 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 43 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 43 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 43 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 43 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 43 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 43 : 11 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 43 : 11 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 43 : 11 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 43 : 11 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 43 : 11 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 43 : 11 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 43 : 11 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 55 : 48 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 55 : 48 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 55 : 48 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 55 : 48 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 55 : 48 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 55 : 52 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 55 : 55 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 55 : 55 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 55 : 55 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 55 : 55 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 55 : 55 AM : INFO :********** Providing customer info **********
+07/04/2024 09 : 55 : 58 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 55 : 58 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 56 : 06 AM : INFO :Passed
+07/04/2024 09 : 56 : 06 AM : INFO :Passed
+07/04/2024 09 : 56 : 06 AM : INFO :Passed
+07/04/2024 09 : 56 : 06 AM : INFO :Passed
+07/04/2024 09 : 56 : 06 AM : INFO :Passed
+07/04/2024 09 : 56 : 25 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 56 : 25 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 56 : 25 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 56 : 25 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 56 : 25 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 09 : 56 : 25 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 56 : 25 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 09 : 56 : 27 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 56 : 27 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 56 : 27 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 56 : 27 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 56 : 27 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 56 : 29 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 09 : 56 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 56 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 56 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 56 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 56 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 09 : 56 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 56 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 56 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 56 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 56 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 09 : 56 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 56 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 56 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 56 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 56 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 56 : 44 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 56 : 48 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 56 : 48 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 56 : 48 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 56 : 48 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 56 : 48 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 56 : 55 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 56 : 55 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 56 : 55 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 56 : 55 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 56 : 55 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 56 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 09 : 56 : 58 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 56 : 58 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 56 : 58 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 56 : 58 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 56 : 58 AM : INFO :*************** Test is passed ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 56 : 59 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 09 : 57 : 03 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 57 : 03 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 57 : 03 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 57 : 03 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 57 : 03 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 09 : 59 : 15 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 59 : 15 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 59 : 15 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 59 : 15 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 59 : 15 AM : INFO :********** Test_003_AddCustomerPage **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 59 : 47 AM : INFO :********** Starting Add Customer Test **********
+07/04/2024 09 : 59 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 59 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 59 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 59 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 59 : 49 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Login Successful **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 59 : 54 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 09 : 59 : 59 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 59 : 59 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 59 : 59 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 59 : 59 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 09 : 59 : 59 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 00 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 00 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 00 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 00 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 00 : 05 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 00 : 07 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 07 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 00 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 00 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 00 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 00 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** test_home_page_title_DDT started ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 00 : 43 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 01 : 03 AM : INFO :Passed
+07/04/2024 10 : 01 : 03 AM : INFO :Passed
+07/04/2024 10 : 01 : 03 AM : INFO :Passed
+07/04/2024 10 : 01 : 03 AM : INFO :Passed
+07/04/2024 10 : 01 : 03 AM : INFO :Passed
+07/04/2024 10 : 01 : 22 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 10 : 01 : 22 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 10 : 01 : 22 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 10 : 01 : 22 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 10 : 01 : 22 AM : INFO :test_home_page_title_DDT is passed
+07/04/2024 10 : 01 : 22 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** test_home_page_title_DDT Ended ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 10 : 01 : 22 AM : INFO :*************** Completed Verifying home page title test ***************
+07/04/2024 10 : 01 : 23 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 10 : 01 : 23 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 10 : 01 : 23 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 10 : 01 : 23 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 10 : 01 : 23 AM : INFO :********** Test_SearchCustomerByEmail_004 **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 10 : 01 : 28 AM : INFO :********** Starting Search Customer By Email **********
+07/04/2024 10 : 01 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 10 : 01 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 10 : 01 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 10 : 01 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 10 : 01 : 33 AM : INFO :********** Searching Customer By Email Id **********
+07/04/2024 10 : 01 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 10 : 01 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 10 : 01 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 10 : 01 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 10 : 01 : 39 AM : INFO :********** Test_SearchCustomerByEmail_004 Finished **********
+07/04/2024 10 : 01 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 01 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 01 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 01 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 01 : 41 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 01 : 45 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 01 : 50 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 01 : 50 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 01 : 50 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 01 : 50 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 01 : 50 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 01 : 56 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 01 : 56 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 01 : 56 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 01 : 56 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 01 : 56 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Test_001_Login ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 10 : 01 : 57 AM : INFO :*************** Verifying login page title ***************
+07/04/2024 10 : 02 : 00 AM : INFO :*************** Test is passed ***************
+07/04/2024 10 : 02 : 00 AM : INFO :*************** Test is passed ***************
+07/04/2024 10 : 02 : 00 AM : INFO :*************** Test is passed ***************
+07/04/2024 10 : 02 : 00 AM : INFO :*************** Test is passed ***************
+07/04/2024 10 : 02 : 00 AM : INFO :*************** Test is passed ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 02 : 02 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 02 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 02 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 02 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 02 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 02 : 11 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 03 : 07 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 03 : 07 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 03 : 07 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 03 : 07 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 03 : 07 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Login Successful **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 03 : 12 AM : INFO :********** Starting Search Customer By Name **********
+07/04/2024 10 : 03 : 17 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 03 : 17 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 03 : 17 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 03 : 17 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 03 : 17 AM : INFO :********** Searching Customer By Name **********
+07/04/2024 10 : 03 : 23 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 03 : 23 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 03 : 23 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 03 : 23 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 03 : 23 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/04/2024 10 : 03 : 25 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** test_home_page_title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 03 : 25 AM : INFO :*************** Verifying home page title ***************
+07/04/2024 10 : 03 : 29 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 03 : 29 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 03 : 29 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 03 : 29 AM : INFO :*************** test_home_page_title is passed ***************
+07/04/2024 10 : 03 : 29 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 53 : 24 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 53 : 24 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 53 : 24 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 53 : 24 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 53 : 24 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 53 : 28 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 53 : 35 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 53 : 35 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 53 : 35 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 53 : 35 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 53 : 35 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 53 : 41 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 53 : 41 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 53 : 41 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 53 : 41 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 53 : 41 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 53 : 43 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 53 : 43 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 53 : 46 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 53 : 46 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 53 : 46 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 53 : 46 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 53 : 46 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 54 : 05 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 54 : 05 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 54 : 05 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 54 : 05 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 54 : 05 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Login Successful **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 54 : 07 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 06 : 54 : 12 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 54 : 12 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 54 : 12 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 54 : 12 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 54 : 12 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 06 : 54 : 18 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 54 : 18 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 54 : 18 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 54 : 18 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 54 : 18 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 06 : 54 : 19 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 54 : 19 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 06 : 54 : 24 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 54 : 24 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 54 : 24 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 54 : 24 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 06 : 54 : 24 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 07 : 21 : 31 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 07 : 21 : 31 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 07 : 21 : 31 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 07 : 21 : 31 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 07 : 21 : 31 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Login Successful **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Login Successful **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Login Successful **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Login Successful **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Login Successful **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 07 : 21 : 35 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 07 : 21 : 40 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 07 : 21 : 40 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 07 : 21 : 40 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 07 : 21 : 40 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 07 : 21 : 40 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 07 : 21 : 46 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 07 : 21 : 46 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 07 : 21 : 46 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 07 : 21 : 46 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 07 : 21 : 46 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 07 : 21 : 48 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 07 : 21 : 48 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 07 : 21 : 52 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 07 : 21 : 52 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 07 : 21 : 52 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 07 : 21 : 52 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 07 : 21 : 52 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 09 : 38 : 10 AM : INFO :********** Test_003_AddCustomerPage **********
+07/05/2024 09 : 38 : 10 AM : INFO :********** Test_003_AddCustomerPage **********
+07/05/2024 09 : 38 : 10 AM : INFO :********** Test_003_AddCustomerPage **********
+07/05/2024 09 : 38 : 10 AM : INFO :********** Test_003_AddCustomerPage **********
+07/05/2024 09 : 38 : 10 AM : INFO :********** Test_003_AddCustomerPage **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Starting Add Customer Test **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Starting Add Customer Test **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Starting Add Customer Test **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Starting Add Customer Test **********
+07/05/2024 09 : 38 : 13 AM : INFO :********** Starting Add Customer Test **********
+07/05/2024 09 : 38 : 16 AM : INFO :********** Providing customer info **********
+07/05/2024 09 : 38 : 16 AM : INFO :********** Providing customer info **********
+07/05/2024 09 : 38 : 16 AM : INFO :********** Providing customer info **********
+07/05/2024 09 : 38 : 16 AM : INFO :********** Providing customer info **********
+07/05/2024 09 : 38 : 16 AM : INFO :********** Providing customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Saving customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Saving customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Saving customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Saving customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Saving customer info **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer validation started **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer validation started **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer validation started **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer validation started **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer validation started **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer test passed **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer test passed **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer test passed **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer test passed **********
+07/05/2024 09 : 38 : 18 AM : INFO :********** Add customer test passed **********
+07/05/2024 09 : 38 : 19 AM : INFO :********** Ending Home Page Title Test **********
+07/05/2024 09 : 38 : 19 AM : INFO :********** Ending Home Page Title Test **********
+07/05/2024 09 : 38 : 19 AM : INFO :********** Ending Home Page Title Test **********
+07/05/2024 09 : 38 : 19 AM : INFO :********** Ending Home Page Title Test **********
+07/05/2024 09 : 38 : 19 AM : INFO :********** Ending Home Page Title Test **********
+07/05/2024 09 : 38 : 21 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 09 : 38 : 21 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 09 : 38 : 21 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 09 : 38 : 21 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 09 : 38 : 21 AM : INFO :********** Test_SearchCustomerByName_004 **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Login Successful **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 09 : 38 : 24 AM : INFO :********** Starting Search Customer By Name **********
+07/05/2024 09 : 38 : 29 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 09 : 38 : 29 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 09 : 38 : 29 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 09 : 38 : 29 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 09 : 38 : 29 AM : INFO :********** Searching Customer By Name **********
+07/05/2024 09 : 38 : 35 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 09 : 38 : 35 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 09 : 38 : 35 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 09 : 38 : 35 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 09 : 38 : 35 AM : INFO :********** Test_SearchCustomerByName_005 Finished **********
+07/05/2024 09 : 38 : 39 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** test_home_page_title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 09 : 38 : 39 AM : INFO :*************** Verifying home page title ***************
+07/05/2024 09 : 38 : 42 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 09 : 38 : 42 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 09 : 38 : 42 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 09 : 38 : 42 AM : INFO :*************** test_home_page_title is passed ***************
+07/05/2024 09 : 38 : 42 AM : INFO :*************** test_home_page_title is passed ***************
